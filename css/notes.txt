@@ -1,3 +1,5 @@
 bd5d38
 
 aria-label="Luke Truesdale LinkedIn profile"
+
+  --bs-primary: #bd5d38;
